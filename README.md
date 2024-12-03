@@ -120,8 +120,4 @@ Vamos agora a instalação do Git, ferramenta para controle de versão dos códi
 
 ![instalação](img33.png "git")
 
-
-## Workspace
-
-Vamos entender agora sobre a configuração do Workspace, que é o espaço de trabalho do projeto.
-Para um projeto Advpl ou TLPP, você pode trabalhar com um workspace ou somente com o diretório raiz do projeto.
+** IDE pronta para codar e debugar! =)
